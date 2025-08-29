@@ -1,0 +1,10 @@
+numeric_cols
+order.id
+order.line
+customer.id
+product.id
+quantity
+bike.id
+price
+total_sales
+year
